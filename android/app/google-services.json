@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727530988514",
+    "project_id": "vigileye-ea302",
+    "storage_bucket": "vigileye-ea302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727530988514:android:9e4b395aa2e7ece99ecfbb",
+        "android_client_info": {
+          "package_name": "com.vigileye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JbT0dHlf1qfNFuFuSXira6zZljyy0cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
