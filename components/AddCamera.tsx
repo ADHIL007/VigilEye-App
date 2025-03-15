@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, TextInput, TouchableOpacity } from 'react-nativ
 import { heightPercentageToDP, widthPercentageToDP } from 'react-native-responsive-screen';
 import {db} from '../Firebase'
 import Icons from 'react-native-vector-icons/MaterialCommunityIcons'
-const AddCamera = ({ setStatus,fetchCameras  }) => {
+const AddCamera = ({ setStatus ,fetchCameras  }) => {
     const [username, setUsername] = useState('admin');
     const [password, setPassword] = useState('');
     const [location, setLocation] = useState('');
